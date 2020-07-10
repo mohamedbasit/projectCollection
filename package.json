@@ -1,0 +1,24 @@
+{
+  "name": "projectcollection",
+  "version": "1.0.0",
+  "description": "A collection of project irrespective of technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "designpattern": "node .\\designPattern\\app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedbasit/projectCollection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedbasit/projectCollection/issues"
+  },
+  "homepage": "https://github.com/mohamedbasit/projectCollection#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
